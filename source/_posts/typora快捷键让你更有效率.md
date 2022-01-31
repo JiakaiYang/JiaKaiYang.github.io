@@ -12,7 +12,7 @@ tags:
 keywords: 提高效率
 reprintPolicy: cc_by
 date: 2022-01-31 12:32:05
-summary:如果你还在为你的md编辑速度太慢而烦恼的话，这应该能帮到你。
+summary: 如果你还在为你的md编辑速度太慢而烦恼的话，这应该能帮到你。
 ---
 
 # 让你写Typora的速度快到飞起
