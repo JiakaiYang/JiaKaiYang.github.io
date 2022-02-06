@@ -86,7 +86,7 @@ music:
   autoHide: true    # hide automaticaly
   server: netease   #require	music platform: netease, tencent, kugou, xiami, baidu
   type: song    #require song, playlist, album, search, artist
-  id: 4278327     #require	song id / playlist id / album id / search keyword
+  id: 542667160     #require	song id / playlist id / album id / search keyword
   fixed: true       # 开启吸底模式
   autoplay: true   # 是否自动播放
   theme: '#42b983'
@@ -100,17 +100,17 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: false
-  showTitle: true
-  title: 看了会沉默
+  enable: true
+  showTitle: false
+  title: 
   url: # url和iframeUrl其中一个必填
-  iframeUrl: //player.bilibili.com/player.html?aid=76664238&bvid=BV1LJ411d786&cid=131131260&page=1 #在bilibili或者爱奇艺分享时选择iframe，然后填那个url来这里，sample: //player.bilibili.com/player.html?aid=669520137&bvid=BV1oa4y1L7mw&cid=234543483&page=1
+  iframeUrl: //player.bilibili.com/player.html?aid=891447478&bvid=BV1ZP4y1L7nV&cid=435723145&page=1 #在bilibili或者爱奇艺分享时选择iframe，然后填那个url来这里，sample: //player.bilibili.com/player.html?aid=669520137&bvid=BV1oa4y1L7mw&cid=234543483&page=1
   pic:
   thumbnails:
   height: 500 # 如：400
   autoplay: false # 是否自动播放
   theme: '#42b983'
-  loop: false # 是否循环播放
+  loop: true # 是否循环播放
   preload: 'auto' # 预加载，可选值: 'none', 'metadata', 'auto'
   volume: 0.7
 
