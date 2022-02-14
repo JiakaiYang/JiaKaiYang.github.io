@@ -1,7 +1,7 @@
 ---
 title: C语言中malloc函数的应用
 author: Kiah
-top: true
+top: false
 hide: false
 cover: false
 toc: true
