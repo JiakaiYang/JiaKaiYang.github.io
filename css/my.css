@@ -1,1 +1,7 @@
 /* Here is your custom css styles. */
+prompticon3{
+    position:fixed;
+    bottom: 60px;;
+    right:16px;
+    cursor: pointer;
+}
