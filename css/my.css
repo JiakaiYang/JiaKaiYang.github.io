@@ -1,9 +1,10 @@
 /* Here is your custom css styles. */
-prompticon3{
+.webpushr-subscribed prompticon3{
     position:fixed;
+    transform: none;
     bottom: 70px !important;
     right:16px;
-    width: 80px !important;
-    height: 80px !important;
+    width: 55px !important;
+    height: 55px !important;
     cursor: pointer;
 }
