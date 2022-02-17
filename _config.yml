@@ -131,8 +131,8 @@ feed:
   content_limit_delim: ' '
   order_by: -date
 
-webPushNotification: 
-  webpushrKey: "411495f6f2805c3d6cfb92ca4c86fef2" 
-  webpushrAuthToken: "46277" 
-  trackingCode: "BGFL6o1E79EfjWPQSiHabdVxsfPlWCSdHSBGyYp6odOvf6hdqN4JI4oGFYifjCv2omYFo7Odc8Jb3hgbzQqqWcc"
+# webPushNotification: 
+#   webpushrKey: "411495f6f2805c3d6cfb92ca4c86fef2" 
+#   webpushrAuthToken: "46277" 
+#   trackingCode: "BGFL6o1E79EfjWPQSiHabdVxsfPlWCSdHSBGyYp6odOvf6hdqN4JI4oGFYifjCv2omYFo7Odc8Jb3hgbzQqqWcc"
 # 如果报错记得去node_modules 下的  hexo-web-push-notification  ->index.js 第22行改为'summary': util.stripHTML(newPost.summary),  
