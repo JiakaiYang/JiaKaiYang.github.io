@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Kiah的博客</title>
+  <title>Kiah</title>
   
-  <subtitle>Kiah&#39;s blog</subtitle>
+  
   <link href="https://jiakaiyang.github.io/atom.xml" rel="self"/>
   
   <link href="https://jiakaiyang.github.io/"/>
