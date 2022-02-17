@@ -75,7 +75,7 @@ cover:
 # 配置首页显示"梦想"的语句.
 dream:
   enable: true
-  showTitle: true
+  showTitle: false
   title: 我一定要达到我的目的
   text: 生活不可能像你想像得那麼好，但也不會像你想像得那麼糟。人的脆弱和堅強都超乎自己的想像。有時，我可能脆弱得一句話就淚流滿面；有時，也發現自己咬著牙走了很長的路。——居伊·德·莫泊桑
 
@@ -103,7 +103,7 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: true
+  enable: false
   showTitle: false
   title: 
   url: # url和iframeUrl其中一个必填
@@ -453,7 +453,6 @@ baiduPush: true
 libs:
   css:
     matery: /css/matery.css
-    mycss: /css/my.css
     gallery: /css/gallery.css
     fontAwesome: /libs/awesome/css/all.min.css # V5.15.4 20211109
     materialize: /libs/materialize/materialize.min.css # 1.0.0 20211109
@@ -469,6 +468,7 @@ libs:
     mermaid: /libs/mermaid/mermaid.min.css
     fancybox: /libs/fancybox/jquery.fancybox.css
     justifiedGallery: /libs/justifiedGallery/justifiedGallery.min.css
+    mycss: /css/my.css
   js:
     matery: /js/matery.js
     jquery: /libs/jquery/jquery-3.6.0.min.js  #3.6.0 20211109
