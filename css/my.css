@@ -1,9 +1,9 @@
 /* Here is your custom css styles. */
 prompticon3{
     position:fixed;
-    bottom: 70px;;
+    bottom: 70px !important;
     right:16px;
-    width: 80px;
-    height: 80px;
+    width: 80px !important;
+    height: 80px !important;
     cursor: pointer;
 }
